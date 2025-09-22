@@ -39,11 +39,11 @@ step(sys,t)
 	Analyse the result.
 ## Output:
 ### Open Loop System
-<img width="1920" height="1080" alt="Screenshot 2025-09-20 142609" src="https://github.com/user-attachments/assets/2ce534ad-de98-4bac-bf60-cedf640b2b0a" />
+<img width="695" height="613" alt="image" src="https://github.com/user-attachments/assets/7d3f59cf-218f-4e7e-8527-37ee771d06f9" />
 
 
 ### Closed Loop System
-<img width="1920" height="1080" alt="Screenshot 2025-09-20 142528" src="https://github.com/user-attachments/assets/80276f33-8b50-4f2c-89b3-84c424da0f3d" />
+<img width="701" height="624" alt="image" src="https://github.com/user-attachments/assets/dbd314ac-90e4-491e-b05a-5dc26201b342" />
 
 
 ## Result:
@@ -53,7 +53,7 @@ Steady State Error =0.95
 Settling Time =2.01 seconds
 ### Closed loop System
 Steady State Error = 0.3
-Settling Time = 0.186 seconds
+Settling Time = 0.185 seconds
 
 
 
